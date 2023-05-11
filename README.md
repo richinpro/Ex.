@@ -1,2 +1,2 @@
-# Ex.
-A simple html page
+# Demo html file
+A simple html page 
